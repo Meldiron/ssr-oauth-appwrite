@@ -1,4 +1,8 @@
-# create-svelte
+# SSR OAuth Appwrite
+
+When setting up GitHub OAuth app, set callback URL to `/api/oauth-finish`.
+
+## Auto-generated docs:
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
